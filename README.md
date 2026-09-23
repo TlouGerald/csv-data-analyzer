@@ -55,28 +55,28 @@ It can also break sales and units down by category and rank products based on to
 4. Run:
 
 ```bash
-python analyzer_v2.py
+python analyzer_v2.py```
 
 5. Select an option from the menu.
 
 ## Key Learning Outcomes
 
 Through this project, I practiced:
-Reading and processing CSV data
-Working with dictionaries and lists
-Creating reusable functions
-Using loops and conditional statements
-Handling exceptions
-Validating input data
-Building a menu-driven Python application
-Structuring a Python project
-Thinking about real-world data quality issues
+- Reading and processing CSV data
+- Working with dictionaries and lists
+- Creating reusable functions
+- Using loops and conditional statements
+- Handling exceptions
+- Validating input data
+- Building a menu-driven Python application
+- Structuring a Python project
+- Thinking about real-world data quality issues
 
 ## Future Improvements
 
 Possible future improvements include:
-Adding graphical data visualizations
-Using Pandas for larger datasets
-Exporting analysis results
-Adding automated tests
-Supporting multiple CSV files
+- Adding graphical data visualizations
+- Using Pandas for larger datasets
+- Exporting analysis results
+- Adding automated tests
+- Supporting multiple CSV files
