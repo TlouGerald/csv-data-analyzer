@@ -55,7 +55,8 @@ It can also break sales and units down by category and rank products based on to
 4. Run:
 
 ```bash
-python analyzer_v2.py```
+python analyzer_v2.py
+```
 
 5. Select an option from the menu.
 
